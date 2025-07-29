@@ -1,16 +1,65 @@
-## Hi there 👋
+👋 Hi, I'm Damián Micó Bedoya
 
-<!--
-**dmb-ops/dmb-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**📍 Junior Data Analyst | SQL • Python • Tableau | Logistics Specialist Turned Data-Driven Professional**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+I'm a former logistics planner with **7 years of international trade experience**, now re-skilled as a **Data Analyst** after completing the Ironhack Bootcamp in Barcelona.
+
+My unique value? I combine **real-world supply chain knowledge** with **technical data analytics skills** to turn complex operations into actionable business insights. I speak **five languages**, adapt fast, and love solving problems with data.
+
+---
+
+## 🛠️ Skills
+
+- **Languages & Tools**: SQL · Python · Pandas · Scikit-learn · Tableau · APIs · Excel
+- **Analytics**: Hypothesis Testing · KPI Development · A/B Testing · Predictive Modeling
+- **Soft Skills**: Critical Thinking · Stakeholder Communication · Storytelling with Data
+- **Languages**: 🇪🇸 Spanish (Native) · 🇬🇧 English (Professional) · 🇫🇷 French (Professional) · 🇮🇹 Italian · 🇨🇦 Catalan
+
+---
+
+## 🔍 Featured Projects
+
+### 📦 Superstore Logistics & Profitability Analysis
+**Tools:** SQL · Python · Tableau  
+Analyzed Superstore retail data to optimize delivery modes and discount strategies.  
+✅ Cleaned and structured data  
+✅ Built custom KPIs and dashboards  
+✅ Delivered insights to reduce logistics costs and increase profit margins  
+
+🔗 [View Project](#) (Link to your GitHub repo)
+
+---
+
+### 🧪 Vanguard UI A/B Testing
+**Tools:** Python · Pandas · Statistical Testing  
+Evaluated the performance of Vanguard’s new user interface using A/B test design.  
+✅ Data cleaning and merging  
+✅ Hypothesis testing and KPI validation  
+✅ Business recommendations on UI rollout  
+
+🔗 [View Project](#) (Link to your GitHub repo)
+
+---
+
+## 🎯 What I’m Looking For
+
+I'm eager to join a **data-driven team** where I can grow as a Junior Data Analyst and apply my hybrid expertise in logistics and analytics to create value from day one.
+
+If you're hiring in **Spain (Barcelona or Madrid)** or remotely, let’s connect!
+
+---
+
+## 📬 Get in Touch
+
+📧 **dmico83@gmail.com**  
+📱 **+34 645 861 510**  
+🔗 [LinkedIn] ((https://www.linkedin.com/in/damian-mico-bedoya-datanalyst/)  
+🔗 [GitHub](#)
+
+---
+
+> “Real-world logistics insight + data fluency = faster, smarter operations.”
