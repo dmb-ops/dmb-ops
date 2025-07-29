@@ -30,7 +30,7 @@ Analyzed Superstore retail data to optimize delivery modes and discount strategi
 ✅ Built custom KPIs and dashboards  
 ✅ Delivered insights to reduce logistics costs and increase profit margins  
 
-🔗 [View Project]([#](https://github.com/dmb-ops/Final_project)) (Link to your GitHub repo)
+🔗 [View Project](https://github.com/dmb-ops/Final_project) 
 
 ---
 
@@ -41,7 +41,7 @@ Evaluated the performance of Vanguard’s new user interface using A/B test desi
 ✅ Hypothesis testing and KPI validation  
 ✅ Business recommendations on UI rollout  
 
-🔗 [View Project]([#](https://github.com/dmb-ops/second_project)) (Link to your GitHub repo)
+🔗 [View Project](https://github.com/dmb-ops/second_project) 
 
 ---
 
