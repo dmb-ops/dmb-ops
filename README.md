@@ -43,6 +43,15 @@ Evaluated the performance of Vanguard’s new user interface using A/B test desi
 
 🔗 [View Project](https://github.com/dmb-ops/second_project) 
 
+📦 Amazon 2025 Sales Analysis
+Tools: Python · Pandas · Data Cleaning · Exploratory Data Analysis
+
+Analyzed a transactional dataset from Amazon to uncover patterns in sales outcomes based on product category, payment method, customer location, and pricing.
+✅ Cleaned and structured raw sales data (duplicates, missing values, date formats)
+✅ Conducted grouped analysis and visual exploration by category, city, and payment type
+✅ Delivered insights to optimize sales strategy, reduce cancellations, and enhance targeting
+
+[View Project](https://github.com/dmb-ops/first_project)
 ---
 
 ## 🎯 What I’m Looking For
