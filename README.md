@@ -58,7 +58,7 @@ If you're hiring in **Spain (Barcelona or Madrid)** or remotely, let’s connect
 📧 **dmico83@gmail.com**  
 📱 **+34 645 861 510**  
 🔗 [LinkedIn] ((https://www.linkedin.com/in/damian-mico-bedoya-datanalyst/)  
-🔗 [GitHub]([#](https://github.com/dmb-ops))
+🔗 [GitHub]([[#](https://github.com/dmb-ops)](https://github.com/dmb-ops))
 
 ---
 
