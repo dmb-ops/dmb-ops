@@ -30,7 +30,7 @@ Analyzed Superstore retail data to optimize delivery modes and discount strategi
 ✅ Built custom KPIs and dashboards  
 ✅ Delivered insights to reduce logistics costs and increase profit margins  
 
-🔗 [View Project](#) (Link to your GitHub repo)
+🔗 [View Project]([#](https://github.com/dmb-ops/Final_project)) (Link to your GitHub repo)
 
 ---
 
@@ -41,7 +41,7 @@ Evaluated the performance of Vanguard’s new user interface using A/B test desi
 ✅ Hypothesis testing and KPI validation  
 ✅ Business recommendations on UI rollout  
 
-🔗 [View Project](#) (Link to your GitHub repo)
+🔗 [View Project]([#](https://github.com/dmb-ops/second_project)) (Link to your GitHub repo)
 
 ---
 
@@ -58,7 +58,7 @@ If you're hiring in **Spain (Barcelona or Madrid)** or remotely, let’s connect
 📧 **dmico83@gmail.com**  
 📱 **+34 645 861 510**  
 🔗 [LinkedIn] ((https://www.linkedin.com/in/damian-mico-bedoya-datanalyst/)  
-🔗 [GitHub](#)
+🔗 [GitHub]([#](https://github.com/dmb-ops))
 
 ---
 
